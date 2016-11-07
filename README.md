@@ -1,7 +1,7 @@
 # Restable
 ### Note: this plugin is still under development.
 jQuery plugin to make tables responsive. **JQUERY IS REQUIRED**
-1
+
 <h3>Details</h3>
 This is a simple plugin to make `<table>` elements responsive.
 It works by reconstructing the markup to use list items instead. with a little bit of CSS magic your tables will now be responsive.
