@@ -13,7 +13,7 @@ table{
   background: #ddd;
 }
 [id*="restable-table-"] .tbody{
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid #eee;
 }
 
 [id*="restable-table-"] .thead ul,
@@ -23,7 +23,7 @@ table{
   list-style: none;
   display: -webkit-flex;
   display: flex;
-  border: 1px solid red;
+  border: 1px solid #eee;
   border-bottom: none;
 }
 
@@ -36,7 +36,7 @@ table{
 
 [id*="restable-table-"] .thead li:not(:last-of-type),
 [id*="restable-table-"] .tbody li:not(:last-of-type){
-  border-right: 1px solid red;
+  border-right: 1px solid #eee;
 }
 
 [id*="restable-table-"] .tbody ul:nth-child(even){
